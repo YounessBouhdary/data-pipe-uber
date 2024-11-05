@@ -5,3 +5,6 @@ This project focuses on analyzing Uber data using modern data engineering practi
 
 ## Architecture
 The global architecture integrates GoogleCoudPatform services and Mage.ai for seamless data processing.
+
+## Dataset Used
+TLC (https://www.nyc.gov/site/tlc/businesses/green-cab.page)
